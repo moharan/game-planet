@@ -1,3 +1,8 @@
 body {
 	background-color: black;
 }
+
+.carousel-inner img {
+  margin: auto;   /* esto hace que todas las slides se vean centradas dentro del carousel*/
+}
+

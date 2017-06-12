@@ -2,3 +2,24 @@ body {
 	background-color: black;
 }
 /*Sección explora-videos*/
+section.explora-videos{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: #999;
+	color: #f9f9f9 ;
+}
+section.explora-videos h3{
+	padding-bottom: 20px;
+	font-weight: 900;
+}
+section.explora-videos ul li, section.explora-iconos-slogan ul li{
+	list-style:none;
+}
+/*FIN Sección explora-videos*/
+/*Sección explora-iconos*/
+.explora-iconos-slogan{
+	height: 200px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: whitesmoke;
+}

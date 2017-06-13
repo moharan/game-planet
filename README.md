@@ -16,11 +16,11 @@ Funcionalidad del proyecto:
 
 Integrantes y responsabilidades:
 
-    Vanessa -- Catálogo - Descripción
+    Vanessa -- Home - Vídeos - Catálogo - Carrito
     Susana -- Readme y footer
-    Camila -- Catálogo -  Compras/carrito
+    Camila -- Catálogo - Descripción
     Pauly --  Carousel con advertising
-    Rangi-Mohana --- Verificar diseño responsive
+    Rangi-Mohana --- Home - Navegador -Verificar diseño responsive
   
 
 Resultado:

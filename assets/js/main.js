@@ -1,5 +1,4 @@
-
-  jQuery(document).ready(function($) {
+ jQuery(document).ready(function($) {
  
         //Handles the carousel thumbnails
         $('[id^=carousel-selector-]').click( function(){
@@ -36,3 +35,4 @@
  
        
 });
+

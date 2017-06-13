@@ -28,45 +28,22 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">Brand</a>
+      <a class="navbar-brand" href="#"><img src="assets/img/logotipo_color.png" alt="logotipo" width="120"></a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
-        <li><a href="#">Link</a></li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a href="#">Action</a></li>
-            <li><a href="#">Another action</a></li>
-            <li><a href="#">Something else here</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">Separated link</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">One more separated link</a></li>
-          </ul>
-        </li>
+        <li><a href="#catalogo">Catálogo <span class="sr-only"></span></a></li>
+        <li><a href="#contacto">Contacto</a></li>
       </ul>
-      <form class="navbar-form navbar-left">
-        <div class="form-group">
-          <input type="text" class="form-control" placeholder="Search">
-        </div>
-        <button type="submit" class="btn btn-default">Submit</button>
-      </form>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Link</a></li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a href="#">Action</a></li>
-            <li><a href="#">Another action</a></li>
-            <li><a href="#">Something else here</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">Separated link</a></li>
-          </ul>
-        </li>
+        <form class="navbar-form navbar-left">
+        <div class="form-group">
+          <input type="text" class="form-control" placeholder="iniciar sesión">
+        </div>
+        <button type="submit" class="sin_style"><i class="fa fa-user fa-lg" aria-hidden="true"></i></button>
+      </form>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
@@ -80,21 +57,31 @@
   </ol>
 
   <!-- Wrapper for slides -->
-  <div class="carousel-inner" role="listbox">
-    <div class="item active">
-      <img src="assets/img/2560.jpg" alt="...">
-      <div class="carousel-caption">
-        ...
-      </div>
-    </div>
-    <div class="item">
-      <img src="assets/img/2560.jpg" alt="...">
-      <div class="carousel-caption">
-        ...
-      </div>
-    </div>
-    ...
-  </div>
+  <div class="col-md-12">
+            <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                <!-- Indicators -->
+                <ol class="carousel-indicators">
+                    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                    <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+                </ol>
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner" role="listbox">
+                    <div class="item active">
+                        <img src="assets/img/slider/switch.png" alt="...">
+                    </div>
+                    <div class="item">
+                        <img src="assets/img/slider/xbox-one.jpg" alt="...">
+                    </div>
+                    <div class="item">
+                        <img src="assets/img/slider/play4.jpg" alt="...">
+                    </div>
+                    <div class="item">
+                        <img src="assets/img/slider/xbox.jpg" alt="...">
+                    </div>
+
+                </div>
   <!-- Controls -->
   <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -553,6 +540,9 @@
                         <li><a href="#">Home</a></li>
                         <li><a href="#">Sign up</a></li>
                         <li><a href="#">Downloads</a></li>
+                        <li><a href="#">Trabaja con nosotros</a></li>
+                        <li><a href="#">News</a></li>
+                        
                     </ul>
                 </div>
                 <div class="col-sm-2">
@@ -573,19 +563,28 @@
                 </div>
                 <div class="col-sm-3">
                     <div class="social-networks">
-                        <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
-                        <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
-                        <a href="#" class="google"><i class="fa fa-google-plus"></i></a>
+                        <a href="#" class="twitter"><i class="fa fa-twitter fa-2x"></i></a>
+                        <a href="#" class="facebook"><i class="fa fa-facebook fa-2x"></i></a>
+                        <a href="#" class="mail"><i class="fa fa-envelope-o fa-2x"></i></a>
                     </div>
                     <button type="button" class="btn btn-default">Contact us</button>
                 </div>
+                <div class="col-lg-offset-9 col-lg-3 col-md-offset-9 col-md-3 col-sm-12 col-xs-12 text-center">
+                <p>FORMAS DE PAGO</p>
+                <i class="fa fa-cc-visa fa-2x" aria-hidden="true"></i>
+                <i class="fa fa-cc-mastercard fa-2x" aria-hidden="true"></i>
+                <i class="fa fa-cc-amex fa-2x" aria-hidden="true"></i>
+            </div>
             </div>
         </div>
         <div class="footer-copyright">
-            <p>© 2016 Copyright Text </p>
+            <p>© 2017 Copyright Text </p>
         </div>
 </footer>
 <!--Sección footer-->
-   
+<!-- JAVASCRIPT es preferible como ultima linea en el body -->
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+ <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+ <script type="text/javascript" src="assets/js/main.js"></script>
 </body>
 </html>

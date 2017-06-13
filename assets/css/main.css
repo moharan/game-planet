@@ -13,6 +13,18 @@ section.explora-videos ul li, section.explora-iconos-slogan ul li{
 	list-style:none;
 }
 /*FIN Sección explora-videos*/
+.explora-iconos-slogan{
+	height: 300px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: whitesmoke;
+}
+section.explora-iconos-slogan h5, i{
+	font-weight: bold;
+}
+section.explora-iconos-slogan i{
+	color: skyblue;
+}
 /*Sección explora-iconos*/
 /*Sección foooter*/
 .explora-iconos-slogan{
@@ -130,6 +142,8 @@ section.explora-iconos-slogan i{
         text-align: center;
     }
 }
+/*
+archivos pasan a alojarce en common.css
 html{
     height: 100%;
 }
@@ -140,7 +154,7 @@ body{
     flex-direction: column;
     -webkit-flex-direction: column;
     height: 100%;
-}
+}*/
 
 .content{
    flex: 1 0 auto;

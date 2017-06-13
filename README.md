@@ -3,7 +3,7 @@
 
 El Reto:
 
-    Hacer un repositorio game-planet en un equipo de ocho integrantes, quienes trabajaremos en el github con la aplicación de las materias aprendidas en clase: "ccs y html".
+    Hacer un repositorio game-planet en un equipo de ocho integrantes, quienes trabajaremos en el github con la aplicación de las materias aprendidas en clase: "ccs y html". El trabajo es una maqueta para un cliente de video juegos, esperemos. 
 
 Metodología del trabajo:
 
@@ -16,11 +16,12 @@ Funcionalidad del proyecto:
 
 Integrantes y responsabilidades:
 
-    Vanessa -- 
-    Susana -- 
-    Camila -- 
-    Pauly -- 
-    
+    Vanessa -- Home - Vídeos - Catálogo - Carrito
+    Susana -- Readme y footer
+    Camila -- Catálogo - Descripción
+    Pauly --  Carousel con advertising
+    Rangi-Mohana --- Home - Navegador -Verificar diseño responsive
+  
 
 Resultado:
 

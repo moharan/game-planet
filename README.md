@@ -16,13 +16,17 @@ Funcionalidad del proyecto:
 
 Integrantes y responsabilidades:
 
-    Vanessa -- Home - Vídeos - Catálogo - Carrito
+    Vanessa --  Vídeos - Descripción de Juegos
     Susana -- Readme y footer
     Camila -- Catálogo - Descripción
     Pauly --  Carousel con advertising
-    Rangi-Mohana --- Home - Navegador -Verificar diseño responsive
+    Rangi-Mohana -- Archivos Base - Nav -
   
 
 Resultado:
 
-    Nuestro trabajo como squad se encuentra en el siguiente link
+    Nuestro trabajo como squad se encuentra en el siguiente link https://moharan.github.io/game-planet/
+    
+Nota:
+    
+    Las secciones por separado funcionan perfectamente, tuvimos problemas al unir los archivos (alineaciones y estructuras no exactas a las ramas)

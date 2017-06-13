@@ -6,3 +6,10 @@ body {
   margin: auto;   /* esto hace que todas las slides se vean centradas dentro del carousel*/
 }
 
+.fa-android:hover{
+    color: #A4C639 ;
+}
+
+.fa-apple:hover{
+    color: #fff;
+}

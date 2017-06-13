@@ -213,3 +213,6 @@ ul li{
 	margin-left:50px;
 	
 }
+.carousel-inner img {
+  margin: auto;   /* esto hace que todas las slides se vean centradas dentro del carousel*/
+}

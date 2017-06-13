@@ -13,20 +13,7 @@ section.explora-videos ul li, section.explora-iconos-slogan ul li{
 	list-style:none;
 }
 /*FIN Sección explora-videos*/
-.explora-iconos-slogan{
-	height: 300px;
-	padding-top: 15px;
-	padding-bottom: 15px;
-	background-color: whitesmoke;
-}
-section.explora-iconos-slogan h5, i{
-	font-weight: bold;
-}
-section.explora-iconos-slogan i{
-	color: skyblue;
-}
 /*Sección explora-iconos*/
-/*Sección foooter*/
 .explora-iconos-slogan{
 	height: 300px;
 	padding-top: 15px;
@@ -40,6 +27,7 @@ section.explora-iconos-slogan i{
 	color: skyblue;
 }
 /*FIN Sección explora-iconos*/
+/*Sección foooter*/
 #myFooter {
     background-color: #3c3d41;
     color: white;

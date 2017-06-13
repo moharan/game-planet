@@ -154,3 +154,172 @@ body{
    flex: 0 0 auto;
    -webkit-flex: 0 0 auto;
 }
+
+/*Estilos catalogo*/
+.catalogo h1{
+	padding:20px;
+}
+
+.catalogo h3{
+	padding:15px;
+	margin-left: 15px;
+}
+
+.margen{
+	margin-left:-150px;
+}
+
+.consola{
+	height: 369px;
+	width: 554px;
+	display: block;
+}
+
+.container.margen{
+	padding-top: 30px;
+}
+
+
+/*Estilo de listas de imagenes carousel*/
+ul{
+	margin-top: 20px;
+	margin-left: -25px;
+	margin-right: -175px;
+}
+
+
+ul li{
+	list-style: none;
+}
+
+/*Imagenes de nintyendo swtich gris*/
+.lista-nin-grey-1{
+	background-image: url(../img/nintendo/nintendo-switch.jpg);
+	background-size: cover;
+	background-position: center;
+	width: 150px;
+	height: 100px;
+}
+
+.lista-nin-grey-2{
+	background-image: url(../img/nintendo/nintendo-switch-2.jpg);
+	background-size: cover;
+	background-position: center;
+	width: 150px;
+	height: 100px;
+}
+
+.lista-nin-grey-3{
+	background-image: url(../img/nintendo/nintendo-switch-3.jpg);
+	background-size: cover;
+	background-position: center;
+	width: 150px;
+	height: 100px;
+}
+
+.lista-nin-grey-4{
+	background-image: url(../img/nintendo/nintendo-switch-4.jpg);
+	background-size: cover;
+	background-position: center;
+	width: 150px;
+	height: 100px;
+}
+
+/*Imagenes de nintyendo swtich color*/
+.lista-nin-color-1{
+	background-image: url(../img/nintendo/nintendo-switch-color.jpg);
+	background-size: cover;
+	background-position: center;
+	width: 150px;
+	height: 100px;
+}
+
+.lista-nin-color-2{
+	background-image: url(../img/nintendo/nintendo-switch-color-2.jpg);
+	background-size: cover;
+	background-position: center;
+	width: 150px;
+	height: 100px;
+}
+
+.lista-nin-color-3{
+	background-image: url(../img/nintendo/nintendo-switch-color-3.jpg);
+	background-size: cover;
+	background-position: center;
+	width: 150px;
+	height: 100px;
+}
+
+.lista-nin-color-4{
+	background-image: url(../img/nintendo/nintendo-switch-color-4.jpg);
+	background-size: cover;
+	background-position: center;
+	width: 150px;
+	height: 100px;
+}
+
+/*Imagenes de xbox one*/
+.lista-xbox-1{
+	background-image: url(../img/xbox-one/xboxone.png);
+	background-size: cover;
+	background-position: center;
+	width: 150px;
+	height: 100px;
+}
+
+.lista-xbox-2{
+	background-image: url(../img/xbox-one/xbox-one.jpg);
+	background-size: cover;
+	background-position: center;
+	width: 150px;
+	height: 100px;
+}
+
+.lista-xbox-3{
+	background-image: url(../img/xbox-one/xbox-black-2.jpg);
+	background-size: cover;
+	background-position: center;
+	width: 150px;
+	height: 100px;
+}
+
+.lista-xbox-4{
+	background-image: url(../img/xbox-one/black-white.jpg);
+	background-size: cover;
+	background-position: center;
+	width: 150px;
+	height: 100px;
+}
+
+/*Imagenes de Play*/
+.lista-play-1{
+	background-image: url(../img/playstation/playstation.png);
+	background-size: cover;
+	background-position: center;
+	width: 150px;
+	height: 100px;
+}
+
+.lista-play-2{
+	background-image: url(../img/playstation/playstation-2.png);
+	background-size: cover;
+	background-position: center;
+	width: 150px;
+	height: 100px;
+}
+
+.lista-play-3{
+	background-image: url(../img/playstation/playstation-3.jpg);
+	background-size: cover;
+	background-position: center;
+	width: 150px;
+	height: 100px;
+}
+
+.lista-play-4{
+	background-image: url(../img/playstation/playstation-4.png);
+	background-size: cover;
+	background-position: center;
+	width: 150px;
+	height: 100px;
+}

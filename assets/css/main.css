@@ -4,7 +4,7 @@ body {
 /*Sección explora-videos*/
 section.explora-videos{
 	padding-top: 15px;
-	padding-bottom: 15px;
+	padding-bottom: 35px;
 	background-color: #999;
 	color: #f9f9f9 ;
 }
@@ -18,8 +18,14 @@ section.explora-videos ul li, section.explora-iconos-slogan ul li{
 /*FIN Sección explora-videos*/
 /*Sección explora-iconos*/
 .explora-iconos-slogan{
-	height: 200px;
+	height: 300px;
 	padding-top: 15px;
 	padding-bottom: 15px;
 	background-color: whitesmoke;
+}
+section.explora-iconos-slogan h5, i{
+	font-weight: bold;
+}
+section.explora-iconos-slogan i{
+	color: skyblue;
 }

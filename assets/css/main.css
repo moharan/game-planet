@@ -5,6 +5,10 @@ section.explora-videos{
 	background-color: #999;
 	color: #f9f9f9 ;
 }
+
+.carousel-inner img {
+  margin: auto;   /* esto hace que todas las slides se vean centradas dentro del carousel*/
+}
 section.explora-videos h3{
 	padding-bottom: 20px;
 	font-weight: 900;

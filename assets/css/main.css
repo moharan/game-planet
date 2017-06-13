@@ -1,6 +1,22 @@
 body {
 	background-color: black;
 }
+/*nav*/
+.sin_style {
+	border: none;
+	background-color: transparent;
+	vertical-align: center;
+}
+.navbar-brand {
+    float: left;
+    height: auto;
+}
+.navbar-toggle {
+    margin-top: 25px;
+}
+.navbar-nav {
+    padding-top: 15px;
+}
 /*Sección explora-videos*/
 section.explora-videos{
 	padding-top: 15px;

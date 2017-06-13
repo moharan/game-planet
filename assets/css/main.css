@@ -1,15 +1,6 @@
-body {
-	background-color: black;
-}
-
 /*Estilos catalogo*/
 .catalogo h1{
-	padding:20px;
-}
-
-.catalogo h3{
-	padding:15px;
-	margin-left: 15px;
+	padding-bottom:50px;
 }
 
 .margen{
@@ -18,12 +9,12 @@ body {
 
 .consola{
 	height: 369px;
-	width: 554px;
+	width: 720px;
 	display: block;
 }
 
 .container.margen{
-	padding-top: 30px;
+	padding-top: 75px;
 }
 
 
@@ -169,4 +160,9 @@ ul li{
 	background-position: center;
 	width: 150px;
 	height: 100px;
+}
+
+.datos{
+	margin-left:50px;
+	
 }

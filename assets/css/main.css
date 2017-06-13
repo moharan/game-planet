@@ -1,9 +1,38 @@
+/*Sección explora-videos*/
+section.explora-videos{
+	padding-top: 15px;
+	padding-bottom: 35px;
+	background-color: #999;
+	color: #f9f9f9 ;
+}
+section.explora-videos h3{
+	padding-bottom: 20px;
+	font-weight: 900;
+}
+section.explora-videos ul li, section.explora-iconos-slogan ul li{
+	list-style:none;
+}
+/*FIN Sección explora-videos*/
+/*Sección explora-iconos*/
+/*Sección foooter*/
+.explora-iconos-slogan{
+	height: 300px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: whitesmoke;
+}
+section.explora-iconos-slogan h5, i{
+	font-weight: bold;
+}
+section.explora-iconos-slogan i{
+	color: skyblue;
+}
+/*FIN Sección explora-iconos*/
 #myFooter {
     background-color: #3c3d41;
     color: white;
     padding-top: 30px;
 }
-
 #myFooter .footer-copyright {
     background-color: #333333;
     padding-top: 3px;
@@ -101,11 +130,6 @@
         text-align: center;
     }
 }
-
-
-/* CSS used for positioning the footers at the bottom of the page. */
-/* You can remove this. */
-
 html{
     height: 100%;
 }
